@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441157991 source:c:\users\Éverton santi\dropbox\ect\2016.2\lp t5\laboratórios\lab05 - números aleatórios\lab05-números aleatórios-teoria\simulacaodado\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

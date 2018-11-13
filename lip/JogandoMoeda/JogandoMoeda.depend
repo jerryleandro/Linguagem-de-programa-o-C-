@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441158438 source:c:\users\Éverton santi\dropbox\ect\2015.2\lp\aulas\aula10-números-aleatórios\jogandomoeda\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
