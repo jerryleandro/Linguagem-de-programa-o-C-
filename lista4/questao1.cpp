@@ -13,6 +13,7 @@ int main () {
     divisao (x, y, q, r);
 
     cout << "Quociente = " << q << " , resto = " << r << endl;
+    cout << "Quocientej = " << q << " , resto = " << r << endl;
 
 
     return 0;
