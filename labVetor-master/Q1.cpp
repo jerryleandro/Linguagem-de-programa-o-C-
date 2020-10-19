@@ -6,6 +6,7 @@ using namespace std ;
 
 int main(){
 int Sfibo[25];
+int hSfibo[25];
 
 int n1 = 1, n2 = 0;
 
